@@ -1,0 +1,19 @@
+h1, h2, h3{
+Color: red;
+}
+
+P {
+font-family: 'Grechen Fuemen', cursive;
+}
+
+Img{
+display: block;
+margin: 0 auto;
+}
+
+h1, h2, h3 {text-shadow: 5px 3px 1px grey;
+}
+
+html {
+background-color: #EFE8DE;
+}
